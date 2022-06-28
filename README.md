@@ -1,4 +1,4 @@
-## Binance Sport API
+## Binance Spot API
 ![ScreenShot](spot.png "SPOT Screen Shot")
 
 ## Binance Futures API (Youtube link)
